@@ -16,7 +16,7 @@ This is a simple console-based BMI (Body Mass Index) calculator written in Pytho
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
-3. Run the `bmi_calculator.py` file to start the calculator.
+3. Run the `script.py` file to start the calculator.
 4. Follow the prompts to enter your weight and height to get your BMI and its categorization.
 
 
